@@ -1,2 +1,3 @@
 blabla.domain.com.
 testest.domain.com.
+admin.stg.domain.com.
