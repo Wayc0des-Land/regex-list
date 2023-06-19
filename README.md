@@ -20,9 +20,13 @@ Usage:
 5. Retrieve the modified domains from the output file for further use or analysis.
 
 Example:
-Input file (domain_list.txt):
+Input file (allsubdomain.txt):
 assets.stg.mydomain.net.
 test.mydomain.com.
+
+Output file (modified_domains.txt):
+assets.stg.mydomain.net
+test.mydomain.com
 
 Contributing:
 Contributions to the Domain Modifier repository are welcome! If you have suggestions, bug reports, or would like to add new features, please open an issue or submit a pull request.
@@ -32,6 +36,4 @@ This project is licensed under the [MIT License](link-to-license-file). Feel fre
 
 Note:
 The Domain Modifier script is provided as-is and without any warranty. Use it at your own risk.
-
-Feel free to customize the description based on the specific details and purpose of your GitHub repository.
 
